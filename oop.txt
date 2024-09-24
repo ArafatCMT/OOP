@@ -1,0 +1,25 @@
+Types of Inheritance :
+---------------------
+Single Inheritance: A class inherits from only one parent class.
+----------------------------------------------------------------
+Multiple Inheritance: A class inherits from more than one parent class.
+-----------------------------------------------------------------------
+Multilevel Inheritance: A class is derived from a class that is also derived from another class.
+------------------------------------------------------------------------------------------------
+Hierarchical Inheritance: Multiple child classes inherit from a single parent class.
+-----------------------------------------------------------------------------------
+Hybrid Inheritance: A combination of two or more types of inheritance.
+----------------------------------------------------------------------
+
+Key Concepts of Inheritance:
+---------------------------
+Base class : jei class er thake property ebong method inherit kora hoi.
+------------------------------------------------------------------------
+Derived calss : jei class ta property ebong method inherit kore.
+
+Abstraction : Abstraction holo emn ekta process jeta internal process ta hide kore shudu matro functionality ta dakai.
+-------------
+Abstract classes : ek ta class er moddhe 1 ba ekadhik Abstract method thakle take Abstract class bole.
+--------------------------------------------------------------------------------------------------------
+Abstract method : Abstract method holo emn ekta method ja parent class e declear kora hoi kinto implement kora hoi na.
+--------------------------------------------------------------------------------------------------------------------
